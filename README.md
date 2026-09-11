@@ -4,6 +4,8 @@
 ![Linux](https://img.shields.io/badge/OS-Linux-blue)
 ![Estado](https://img.shields.io/badge/estado-completado-green)
 
+https://davidgomez15.github.io/Manual-vi-editor/
+
 Manual interactivo sobre el uso del editor `vi` desarrollado para la asignatura Seminario Linux.
 
 ## Tabla de Contenido
