@@ -1,0 +1,21 @@
+===================================================
+   ARCHIVO DE PRÁCTICA PARA EL EDITOR VI 
+===================================================
+
+1. Texto de prueba para practicar navegación básica:
+Usando las teclas h, j, k, l me muevo por este texto.
+Con '0' voy al inicio y con '$' voy al final de esta linea.
+
+2. Texto de prueba para borrar y corregir (usar dw y x):
+Esta linea tiene un error grande borrame esta palabra extra.
+Esta otra linea tiene un caracter x de mas al final.
+
+3. Texto de prueba para copiar y pegar (usar yy y p):
+Copia esta linea de texto completa.
+Pégala inmediatamente abajo de este mensaje.
+
+4. Texto para probar búsqueda y reemplazo (usar :%s):
+En este parrafo la palabra error aparece varias veces.
+Si hay un error en mi codigo, debo solucionar el error rapidamente.
+
+5. Fin del ejercicio de laboratorio.
